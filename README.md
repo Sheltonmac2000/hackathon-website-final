@@ -275,7 +275,7 @@ Change meta tags content in `/public/index.html`
 <meta name="author" content="LimboHacks" />
 <meta
   name="description"
-  content="Join us on 20th November 2021 with over 300 students from across the nation for 24 hours of creation, innovation, & fun."
+  content="Shelton is totally awesome dude!."
 />
 <meta itemprop="name" content="LimboHacks" />
 <meta
