@@ -97,20 +97,20 @@ const calenderStartingDate = {
 
 const schedule = [
   {
-    day: '10-20-2023',
+    day: '8-11-2021',
     events: [
       {
-        title: 'Kickoff',
+        title: 'Intro to phycycology',
         timings: '12 AM - 1 Pm',
         link: 'https://google.com'
       }
     ]
   },
   {
-    day: '10-21-2023',
+    day: '5-12-2021',
     events: [
       {
-        title: 'Hackathon End',
+        title: 'Intro to deep learning',
         timings: '12 AM - 1 Pm',
         link: 'https://google.com'
       },
@@ -231,8 +231,8 @@ const TeamInfo = [
   [
     //Array 1
     {
-      Name: 'Rehan',
-      role: 'Organizer',
+      Name: 'Shelton',
+      role: 'Lead Web Developer',
       github: 'https://github.com/Limbo-Hacks/Hackathon-website-template',
       linkedin: '',
       img: me
