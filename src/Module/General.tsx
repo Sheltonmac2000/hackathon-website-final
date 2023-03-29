@@ -28,7 +28,7 @@ import lyin from './Assets/teami/lyin.jpg';
 
 // Importing all Team members images  from Assets
 
-import me from './Assets/teami/me.png';
+import me from './Assets/teami/shelton.png';
 import moon from './Assets/teami/moon.png';
 import Ryah from './Assets/teami/Ryah.jpg';
 import zoha from './Assets/teami/zoha.png';
