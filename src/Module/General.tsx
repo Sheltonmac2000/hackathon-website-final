@@ -32,6 +32,7 @@ import me from './Assets/teami/me.png';
 import moon from './Assets/teami/moon.png';
 import Ryah from './Assets/teami/Ryah.jpg';
 import zoha from './Assets/teami/zoha.png';
+import shelton from './Assets/teami/shelton.png'
 
 const TOP_SECTION = {
   TITLE: 'Join us for the BYU-I Hackathon!',
