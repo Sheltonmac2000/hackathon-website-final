@@ -232,7 +232,7 @@ const TeamInfo = [
     //Array 1
     {
       Name: 'Shelton',
-      role: 'Lead Web Developer',
+      role: 'Shelton Macamo - Lead Web Developer',
       github: 'https://github.com/Limbo-Hacks/Hackathon-website-template',
       linkedin: '',
       img: me
