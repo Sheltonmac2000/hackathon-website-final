@@ -97,20 +97,20 @@ const calenderStartingDate = {
 
 const schedule = [
   {
-    day: '8-11-2021',
+    day: '10-20-2023',
     events: [
       {
-        title: 'Intro to phycycology',
+        title: 'Kickoff',
         timings: '12 AM - 1 Pm',
         link: 'https://google.com'
       }
     ]
   },
   {
-    day: '5-12-2021',
+    day: '10-21-2023',
     events: [
       {
-        title: 'Intro to deep learning',
+        title: 'Hackathon End',
         timings: '12 AM - 1 Pm',
         link: 'https://google.com'
       },
